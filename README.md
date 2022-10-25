@@ -49,9 +49,8 @@
 Работа с Сisco Packet Tracer.
 
 Материалы о выполнении лабораторной работы:
-* Проект: [Project](https://github.com/aggink/LaboratoryWorks_IT/blob/main/Network%20Setup/Project.pka?raw=true)
-* Информация о конфигурации устройств: [Device Configuration Information](https://github.com/aggink/LaboratoryWorks_IT/blob/main/Network%20Setup/Device%20Configuration%20Information.pdf)
-* Сценарий для настройки устройств: [Command script in cisco](https://github.com/aggink/LaboratoryWorks_IT/blob/main/Network%20Setup/Command%20script%20in%20cisco.txt)
+* Проект: [Project]([https://github.com/aggink/LaboratoryWorks_IT/blob/main/Network%20Setup/Project.pka?raw=true](https://github.com/iShakurzade/IT_ShukurovF_22-02/tree/main/Network%20Setup))
+
 
 ## ✅ Экзаменационные билет №23
 
