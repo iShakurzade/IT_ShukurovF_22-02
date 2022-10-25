@@ -49,7 +49,7 @@
 Работа с Сisco Packet Tracer.
 
 Материалы о выполнении лабораторной работы:
-* Проект: [Project]([https://github.com/aggink/LaboratoryWorks_IT/blob/main/Network%20Setup/Project.pka?raw=true](https://github.com/iShakurzade/IT_ShukurovF_22-02/tree/main/Network%20Setup))
+* Проект: [Project](https://github.com/iShakurzade/IT_ShukurovF_22-02/tree/main/Network%20Setup)
 
 
 ## ✅ Экзаменационные билет №23
