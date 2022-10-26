@@ -1,0 +1,35 @@
+.headder {
+    width: auto;
+    height: 85px;
+    background: #fff;
+    box-shadow: 0 1px 4px rgb(92 133 150 / 25%);
+    margin-bottom: 50px;
+}
+
+.headd {
+    display: flex;
+    justify-content: center;
+}
+
+.tex {
+    padding: 110px;
+}
+
+.hrr {
+    margin-top: 40px;
+}
+
+.second {
+    padding-top: 30px;
+    width: 800px;
+    height: 330px;
+}
+
+.sccc {
+    padding-top: 20px;
+    width: 680px;
+    height: 330px;  
+}
+
+
+
