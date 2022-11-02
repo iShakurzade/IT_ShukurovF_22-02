@@ -52,7 +52,7 @@
 * Проект: [Project](https://github.com/iShakurzade/IT_ShukurovF_22-02/tree/main/Network%20Setup)
 
 
-## ✅ Экзаменационные билет №23
+## ✅ Экзаменационные билет №30
 
 Ответ на экзаменационный билет доступен по ссылке:
-[билет №23](https://github.com/stankin/inet-2022/wiki/exam23)
+[билет №30](https://github.com/stankin/inet-2022/wiki/exam30)
