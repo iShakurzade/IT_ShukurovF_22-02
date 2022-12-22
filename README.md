@@ -58,4 +58,5 @@
 ## ✅ Экзаменационные билет №30
 
 Ответ на экзаменационный билет доступен по ссылке:
-[билет №30](https://github.com/stankin/inet-2022/wiki/exam30)
+* [Билет №30](https://github.com/stankin/inet-2022/wiki/exam30)
+* [Committed]([https://github.com/stankin/inet-2022/wiki/exam23/_compare/fbe7996e120251f909c836745bbb2445c47d7939...ca0c8a452e22a948aaa82df48d0d2951d762fb2b](https://github.com/stankin/inet-2022/wiki/exam30/_compare/1298f3fb95f2719d0dcbb6115974417ce4b27894...d9d3692409b075d7d50633cfb3041d89099d36d5))
