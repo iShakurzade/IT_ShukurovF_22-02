@@ -52,11 +52,11 @@
 
 Материалы о выполнении лабораторной работы:
 * Проект: [Project](https://github.com/iShakurzade/IT_ShukurovF_22-02/blob/main/Network%20Setup/Для%20ИТ%20(1).pkt)
-* [Отчет](https://github.com/iShakurzade/IT_ShukurovF_22-02/blob/main/Network%20Setup/IT_LR3_ShukurovF_IDM-22-02..pdf) 
+* Скриншоты проделанной работы по теме "Настройка локальной сети передачи данных" доступны по ссылке:[ссылка](https://github.com/iShakurzade/IT_ShukurovF_22-02/blob/main/Network%20Setup/IT_LR3_ShukurovF_IDM-22-02..pdf) 
 
 
 ## ✅ Экзаменационные билет №30
 
 Ответ на экзаменационный билет доступен по ссылке:
 * [Билет №30](https://github.com/stankin/inet-2022/wiki/exam30)
-* [Committed](https://github.com/stankin/inet-2022/wiki/exam30/_compare/1298f3fb95f2719d0dcbb6115974417ce4b27894...d9d3692409b075d7d50633cfb3041d89099d36d5)
+* Ссылка на последний личный коммит: [Committed](https://github.com/stankin/inet-2022/wiki/exam30/_compare/1298f3fb95f2719d0dcbb6115974417ce4b27894...d9d3692409b075d7d50633cfb3041d89099d36d5)
