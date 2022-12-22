@@ -48,9 +48,11 @@
 ## ✅ Лабораторная работа № 3
 
 Работа с Сisco Packet Tracer.
+Цель работы - настройка коммутаторов и маршрутизаторов для осуществления работоспособности локальной сети.
 
 Материалы о выполнении лабораторной работы:
-* Проект: [Project](https://github.com/iShakurzade/IT_ShukurovF_22-02/tree/main/Network%20Setup)
+* Проект: [Project](https://github.com/iShakurzade/IT_ShukurovF_22-02/blob/main/Network%20Setup/Для%20ИТ%20(1).pkt)
+* [Отчет](https://github.com/iShakurzade/IT_ShukurovF_22-02/blob/main/Network%20Setup/IT_LR3_ShukurovF_IDM-22-02..pdf) 
 
 
 ## ✅ Экзаменационные билет №30
